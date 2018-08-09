@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceRoot}/${fileBasenameNoExtension}.exe",
-            "args": ["C:\\Users\\Administrator\\source\\repos\\DomainRadixTree\\DomainRadixTree\\adfree.txt"],
+            "args": ["${workspaceRoot}\\adfree.txt"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
